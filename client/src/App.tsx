@@ -14,7 +14,7 @@ function App() {
         <div className="navbar">
           <Link to="/"> Dashboard</Link>
           <Link to="/auth"> SignIn</Link>
-          <Link to="/expenses"> Expenses</Link>
+          {/* <Link to="/expenses"> Expenses</Link> */}
 <div className="userProfile">
           <SignedIn>
             <UserButton />
