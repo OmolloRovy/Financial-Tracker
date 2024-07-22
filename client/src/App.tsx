@@ -30,7 +30,7 @@ function App() {
               </FinancialRecordsProvider>
             }
           />
-          <Route path="/expenses" element={<Expense/>}/>
+          {/* <Route path="/expenses" element={<Expense/>}/> */}
           <Route path="/auth" element={<Auth />} />
         </Routes>
       </div>
