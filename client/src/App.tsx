@@ -4,7 +4,7 @@ import { Dashboard } from "./pages/dashboard";
 import { Auth } from "./pages/auth";
 import { FinancialRecordsProvider } from "./contexts/financial-record-context";
 import { SignedIn, UserButton } from "@clerk/clerk-react";
-import Expense from "./pages/expenses/expense";
+// import Expense from "./pages/expenses/expense";
 // import { dark } from "@clerk/themes";
 
 function App() {
