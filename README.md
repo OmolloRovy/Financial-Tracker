@@ -1,4 +1,4 @@
 # NOTE
-FaiLED DEPLOY
+FailED DEPLOY
 # Components
 React + TypeScript + Vite project
