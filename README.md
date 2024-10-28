@@ -1,1 +1,2 @@
-React + TypeScript + Vite project
+
+    React + TypeScript + Vite project
