@@ -1,2 +1,3 @@
-# NOTE FAILED DEPLOY
+# NOTE
+FAILED DEPLOY
 React + TypeScript + Vite project
