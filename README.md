@@ -1,3 +1,3 @@
 # N
-# Components
+# Compootenents
 React + TypeScript + Vite project
