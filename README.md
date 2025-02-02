@@ -96,4 +96,4 @@ This project is licensed under the [Choose a License] license.
 This README provides a comprehensive overview of your MERN stack application. Remember to adapt it to your specific project by replacing the placeholder information, adding more details, and including any additional relevant information.
 
 # Note
-Failed Deployment in storing key components for both client and server sides
+Failed
