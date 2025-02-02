@@ -97,5 +97,3 @@ This README provides a comprehensive overview of your MERN stack application. Re
 
 # Note
 Failed Deployment in storing key components for both client and server sides
-# Components 
-React + TypeScript + Vite project
