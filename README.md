@@ -50,8 +50,6 @@ This application allows users to track their expenses effectively.
     *   Includes components, pages, styles, and other frontend-related files.
 *   **server:**
     *   Contains the Express.js backend code, including API routes, database models, and middleware.
-*   **shared:** (Optional)
-    *   Contains shared components, utilities, or configurations used by both frontend and backend.
 
 ## Getting Started
 
