@@ -40,7 +40,7 @@ This application allows users to track their expenses effectively.
     *   **MongoDB:** As the NoSQL database for storing user data and expenses.
 *   **Other Technologies:**
     *   **Mongoose:** An Object Data Modeling (ODM) library for interacting with MongoDB.
-    *   **[State Management]:** (e.g., Redux, Zustand, Context API) for managing application state.
+    *   **[State Management]:** (Redux, Zustand, Context API) for managing application state.
     *   **[Testing Framework]:** (e.g., Jest, Mocha) for unit and integration testing.
 
 ## Project Structure
