@@ -8,7 +8,7 @@ This application allows users to track their expenses effectively.
 
 **Key Features:**
 
-*   **User Authentication:** Secure user authentication and authorization using a robust system (e.g., JWT).
+*   **User Authentication:** Secure user authentication and authorization using a robust system ( JWT).
 *   **Expense Tracking:**
     *   Users can add, edit, and delete expense entries.
     *   Expense entries include details such as:
