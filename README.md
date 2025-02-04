@@ -41,7 +41,7 @@ This application allows users to track their expenses effectively.
 *   **Other Technologies:**
     *   **Mongoose:** An Object Data Modeling (ODM) library for interacting with MongoDB.
     *   **[State Management]:** (Redux, Zustand, Context API) for managing application state.
-    *   **[Testing Framework]:** (e.g., Jest, Mocha) for unit and integration testing.
+    *   **[Testing Framework]:** (Jest, Mocha) for unit and integration testing.
 
 ## Project Structure
 
