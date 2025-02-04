@@ -13,7 +13,7 @@ This application allows users to track their expenses effectively.
     *   Users can add, edit, and delete expense entries.
     *   Expense entries include details such as:
         *   Date
-        *   Category (e.g., Food, Transportation, Entertainment)
+        *   Category (Food, Transportation, Entertainment)
         *   Amount
         *   Description
     *   Ability to categorize expenses for better budgeting.
