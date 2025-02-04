@@ -80,7 +80,7 @@ This application allows users to track their expenses effectively.
 **Note:**
 
 *   **Environment Variables:** Store sensitive information (e.g., database credentials, API keys) in environment variables.
-*   **Database Setup:** Set up a MongoDB database instance (e.g., using MongoDB Atlas) and configure the connection string in your environment variables.
+*   **Database Setup:** Set up a MongoDB database instance 
 
 ## Contributing
 
