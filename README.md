@@ -79,8 +79,6 @@ This application allows users to track their expenses effectively.
 
 **Note:**
 
-*   **Environment Variables:** Store sensitive 
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request with your improvements.
