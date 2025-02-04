@@ -77,8 +77,7 @@ This application allows users to track their expenses effectively.
     *   Start the backend server: `npm start` (or `nodemon server.js`)
     *   Start the frontend development server: `npm start`
 
-**Note:**
-
+**
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request with your improvements.
