@@ -33,7 +33,7 @@ This application allows users to track their expenses effectively.
 *   **Frontend:**
     *   **React:** For building the user interface.
     *   **React Router:** For handling client-side routing.
-    *   **[CSS Framework/Library]:** (e.g., Material-UI, Tailwind CSS) for styling.
+    *   **[CSS Framework/Library]:** ( Material-UI, Tailwind CSS) for styling.
 *   **Backend:**
     *   **Express.js:** For building the RESTful API.
     *   **Node.js:** As the runtime environment.
