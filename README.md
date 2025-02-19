@@ -4,7 +4,7 @@ This README file provides information about the Expense Tracker application, a f
 
 ## Description
 
-This application allows users to track their expenses effectively. 
+This web application allows users to track their expenses effectively. 
 
 **Key Features:**
 
