@@ -86,6 +86,5 @@ Contributions are welcome! Please feel free to submit a pull request with your i
 This project is not licensed.
 
 ##
-This README provides a comprehensive overview of your MERN stack application. Remember to adapt it to your specific project by replacing the placeholder information, adding more details, and including any additional relevant information.
-
+This README provides a comprehensive overview of your MERN stack application. Remember to adapt it to your specific project by replacing the placeholder information, adding more details, and including any additional relevant information
 
