@@ -1,4 +1,4 @@
-# Expense T
+# Expense Tracker 
 
 This README file provides information about the Expense Tracker application, a full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
